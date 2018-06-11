@@ -1,0 +1,6 @@
+{
+    "name": "nodex-cache-example",
+    "dependencies": {
+        "nodex-cache": "file:lib/nodex-cache"
+    }
+}
