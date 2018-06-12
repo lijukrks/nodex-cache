@@ -1,6 +1,6 @@
 {
   "name": "nodex-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple node js cache manager",
   "main": "dist/nodex-cache.min.js",
   "scripts": {
