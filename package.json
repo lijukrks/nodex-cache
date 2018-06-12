@@ -1,5 +1,10 @@
 {
     "name": "nodex-cache-example",
+    "version": "1.0.0",
+    "description": "nodex-cache usage example",
+    "scripts": {
+        "start": "node index.js"
+    },
     "dependencies": {
         "nodex-cache": "file:lib/nodex-cache"
     }
