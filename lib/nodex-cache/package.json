@@ -6,6 +6,10 @@
   "scripts": {
     "build": "rimraf ./dist && webpack --config ./webpack.config.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lijukrks/nodex-cache"
+  },
   "devDependencies": {
     "babel-core": "^6.10.4",
     "babel-loader": "^6.2.4",
