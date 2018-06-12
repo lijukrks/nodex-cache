@@ -18,7 +18,10 @@
   },
   "keywords": [
     "node",
-    "cache"
+    "nodejs",
+    "cache",
+    "node-cache",
+    "nodex-cache"
   ],
   "author": "Liju Kuriakose",
   "license": "MIT"
